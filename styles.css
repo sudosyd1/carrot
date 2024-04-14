@@ -14,6 +14,8 @@ h1 {
     arial,
     sans-serif;
   margin: 24px 0;
+  color: chartreuse;
+  background-color: blue;
 }
 
 .bold-paragraph {
